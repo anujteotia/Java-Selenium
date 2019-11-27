@@ -1,0 +1,89 @@
+2017-03-26 15:34:27 INFO  CreateFolder:26 - creating directory: Screenshot
+2017-03-26 15:34:27 INFO  CreateFolder:37 - Folder created Screenshot
+2017-03-26 15:34:27 INFO  CreateFolder:26 - creating directory: Output
+2017-03-26 15:34:27 INFO  CreateFolder:37 - Folder created Output
+2017-03-26 15:34:27 INFO  CreateFolder:40 - Log already Exist!!
+2017-03-26 15:34:37 INFO  HackerNewsScenario:107 - TestCaseName:traverseanddisplaydynamic
+2017-03-26 15:34:37 INFO  HackerNewsScenario:112 - Value:Ha
+2017-03-26 15:34:45 INFO  StepExecuter:106 - SendkeysCopyDynamic:Ha
+2017-03-26 15:34:45 INFO  StepExecuter:108 - Ha Entered dynamically at [[ChromeDriver: chrome on XP (63f0eee21314c9996754152fcc625bf9)] -> xpath: //input]
+2017-03-26 15:34:55 INFO  StepExecuter:114 - Enter pressed Successfully
+2017-03-26 15:35:11 INFO  StepExecuter:97 - [[ChromeDriver: chrome on XP (63f0eee21314c9996754152fcc625bf9)] -> xpath: //button[text()='2']] : Clicked Successfully
+2017-03-26 15:35:26 INFO  StepExecuter:97 - [[ChromeDriver: chrome on XP (63f0eee21314c9996754152fcc625bf9)] -> xpath: //button[text()='3']] : Clicked Successfully
+2017-03-26 15:35:41 INFO  StepExecuter:97 - [[ChromeDriver: chrome on XP (63f0eee21314c9996754152fcc625bf9)] -> xpath: //button[text()='4']] : Clicked Successfully
+2017-03-26 15:35:55 INFO  StepExecuter:97 - [[ChromeDriver: chrome on XP (63f0eee21314c9996754152fcc625bf9)] -> xpath: //button[text()='5']] : Clicked Successfully
+2017-03-26 15:35:55 INFO  HackerNewsWrapper:45 - No. of title with more than 500 votes=24
+2017-03-26 15:35:57 INFO  HackerNewsScenario:112 - Value:Hac
+2017-03-26 15:36:03 INFO  StepExecuter:106 - SendkeysCopyDynamic:Hac
+2017-03-26 15:36:03 INFO  StepExecuter:108 - Hac Entered dynamically at [[ChromeDriver: chrome on XP (63f0eee21314c9996754152fcc625bf9)] -> xpath: //input]
+2017-03-26 15:36:11 INFO  StepExecuter:114 - Enter pressed Successfully
+2017-03-26 15:36:25 INFO  StepExecuter:97 - [[ChromeDriver: chrome on XP (63f0eee21314c9996754152fcc625bf9)] -> xpath: //button[text()='2']] : Clicked Successfully
+2017-03-26 15:36:40 INFO  StepExecuter:97 - [[ChromeDriver: chrome on XP (63f0eee21314c9996754152fcc625bf9)] -> xpath: //button[text()='3']] : Clicked Successfully
+2017-03-26 15:36:54 INFO  StepExecuter:97 - [[ChromeDriver: chrome on XP (63f0eee21314c9996754152fcc625bf9)] -> xpath: //button[text()='4']] : Clicked Successfully
+2017-03-26 15:37:09 INFO  StepExecuter:97 - [[ChromeDriver: chrome on XP (63f0eee21314c9996754152fcc625bf9)] -> xpath: //button[text()='5']] : Clicked Successfully
+2017-03-26 15:37:09 INFO  HackerNewsWrapper:45 - No. of title with more than 500 votes=55
+2017-03-26 15:37:10 INFO  HackerNewsScenario:112 - Value:Hack
+2017-03-26 15:37:16 INFO  StepExecuter:106 - SendkeysCopyDynamic:Hack
+2017-03-26 15:37:16 INFO  StepExecuter:108 - Hack Entered dynamically at [[ChromeDriver: chrome on XP (63f0eee21314c9996754152fcc625bf9)] -> xpath: //input]
+2017-03-26 15:37:24 INFO  StepExecuter:114 - Enter pressed Successfully
+2017-03-26 15:37:40 INFO  StepExecuter:97 - [[ChromeDriver: chrome on XP (63f0eee21314c9996754152fcc625bf9)] -> xpath: //button[text()='2']] : Clicked Successfully
+2017-03-26 15:37:55 INFO  StepExecuter:97 - [[ChromeDriver: chrome on XP (63f0eee21314c9996754152fcc625bf9)] -> xpath: //button[text()='3']] : Clicked Successfully
+2017-03-26 15:38:09 INFO  StepExecuter:97 - [[ChromeDriver: chrome on XP (63f0eee21314c9996754152fcc625bf9)] -> xpath: //button[text()='4']] : Clicked Successfully
+2017-03-26 15:38:24 INFO  StepExecuter:97 - [[ChromeDriver: chrome on XP (63f0eee21314c9996754152fcc625bf9)] -> xpath: //button[text()='5']] : Clicked Successfully
+2017-03-26 15:38:24 INFO  HackerNewsWrapper:45 - No. of title with more than 500 votes=55
+2017-03-26 15:38:25 INFO  HackerNewsScenario:112 - Value:Hacka
+2017-03-26 15:38:31 INFO  StepExecuter:106 - SendkeysCopyDynamic:Hacka
+2017-03-26 15:38:31 INFO  StepExecuter:108 - Hacka Entered dynamically at [[ChromeDriver: chrome on XP (63f0eee21314c9996754152fcc625bf9)] -> xpath: //input]
+2017-03-26 15:38:39 INFO  StepExecuter:114 - Enter pressed Successfully
+2017-03-26 15:38:54 INFO  StepExecuter:97 - [[ChromeDriver: chrome on XP (63f0eee21314c9996754152fcc625bf9)] -> xpath: //button[text()='2']] : Clicked Successfully
+2017-03-26 15:39:10 INFO  StepExecuter:97 - [[ChromeDriver: chrome on XP (63f0eee21314c9996754152fcc625bf9)] -> xpath: //button[text()='3']] : Clicked Successfully
+2017-03-26 15:39:24 INFO  StepExecuter:97 - [[ChromeDriver: chrome on XP (63f0eee21314c9996754152fcc625bf9)] -> xpath: //button[text()='4']] : Clicked Successfully
+2017-03-26 15:39:39 INFO  StepExecuter:97 - [[ChromeDriver: chrome on XP (63f0eee21314c9996754152fcc625bf9)] -> xpath: //button[text()='5']] : Clicked Successfully
+2017-03-26 15:39:39 INFO  HackerNewsWrapper:45 - No. of title with more than 500 votes=2
+2017-03-26 15:39:40 INFO  HackerNewsScenario:112 - Value:Hackat
+2017-03-26 15:39:46 INFO  StepExecuter:106 - SendkeysCopyDynamic:Hackat
+2017-03-26 15:39:46 INFO  StepExecuter:108 - Hackat Entered dynamically at [[ChromeDriver: chrome on XP (63f0eee21314c9996754152fcc625bf9)] -> xpath: //input]
+2017-03-26 15:39:55 INFO  StepExecuter:114 - Enter pressed Successfully
+2017-03-26 15:40:12 INFO  StepExecuter:97 - [[ChromeDriver: chrome on XP (63f0eee21314c9996754152fcc625bf9)] -> xpath: //button[text()='2']] : Clicked Successfully
+2017-03-26 15:40:28 INFO  StepExecuter:97 - [[ChromeDriver: chrome on XP (63f0eee21314c9996754152fcc625bf9)] -> xpath: //button[text()='3']] : Clicked Successfully
+2017-03-26 15:40:44 INFO  StepExecuter:97 - [[ChromeDriver: chrome on XP (63f0eee21314c9996754152fcc625bf9)] -> xpath: //button[text()='4']] : Clicked Successfully
+2017-03-26 15:40:59 INFO  StepExecuter:97 - [[ChromeDriver: chrome on XP (63f0eee21314c9996754152fcc625bf9)] -> xpath: //button[text()='5']] : Clicked Successfully
+2017-03-26 15:40:59 INFO  HackerNewsWrapper:45 - No. of title with more than 500 votes=0
+2017-03-26 15:41:00 INFO  HackerNewsScenario:112 - Value:Hackath
+2017-03-26 15:41:06 INFO  StepExecuter:106 - SendkeysCopyDynamic:Hackath
+2017-03-26 15:41:06 INFO  StepExecuter:108 - Hackath Entered dynamically at [[ChromeDriver: chrome on XP (63f0eee21314c9996754152fcc625bf9)] -> xpath: //input]
+2017-03-26 15:41:14 INFO  StepExecuter:114 - Enter pressed Successfully
+2017-03-26 15:41:26 INFO  StepExecuter:97 - [[ChromeDriver: chrome on XP (63f0eee21314c9996754152fcc625bf9)] -> xpath: //button[text()='2']] : Clicked Successfully
+2017-03-26 15:41:41 INFO  StepExecuter:97 - [[ChromeDriver: chrome on XP (63f0eee21314c9996754152fcc625bf9)] -> xpath: //button[text()='3']] : Clicked Successfully
+2017-03-26 15:41:58 INFO  StepExecuter:97 - [[ChromeDriver: chrome on XP (63f0eee21314c9996754152fcc625bf9)] -> xpath: //button[text()='4']] : Clicked Successfully
+2017-03-26 15:42:16 INFO  StepExecuter:97 - [[ChromeDriver: chrome on XP (63f0eee21314c9996754152fcc625bf9)] -> xpath: //button[text()='5']] : Clicked Successfully
+2017-03-26 15:42:16 INFO  HackerNewsWrapper:45 - No. of title with more than 500 votes=0
+2017-03-26 15:42:18 INFO  HackerNewsScenario:112 - Value:Hackatho
+2017-03-26 15:42:24 INFO  StepExecuter:106 - SendkeysCopyDynamic:Hackatho
+2017-03-26 15:42:24 INFO  StepExecuter:108 - Hackatho Entered dynamically at [[ChromeDriver: chrome on XP (63f0eee21314c9996754152fcc625bf9)] -> xpath: //input]
+2017-03-26 15:42:36 INFO  StepExecuter:114 - Enter pressed Successfully
+2017-03-26 15:42:55 INFO  StepExecuter:97 - [[ChromeDriver: chrome on XP (63f0eee21314c9996754152fcc625bf9)] -> xpath: //button[text()='2']] : Clicked Successfully
+2017-03-26 15:43:19 INFO  StepExecuter:97 - [[ChromeDriver: chrome on XP (63f0eee21314c9996754152fcc625bf9)] -> xpath: //button[text()='3']] : Clicked Successfully
+2017-03-26 15:43:46 INFO  StepExecuter:97 - [[ChromeDriver: chrome on XP (63f0eee21314c9996754152fcc625bf9)] -> xpath: //button[text()='4']] : Clicked Successfully
+2017-03-26 15:44:12 INFO  StepExecuter:97 - [[ChromeDriver: chrome on XP (63f0eee21314c9996754152fcc625bf9)] -> xpath: //button[text()='5']] : Clicked Successfully
+2017-03-26 15:44:12 INFO  HackerNewsWrapper:45 - No. of title with more than 500 votes=0
+2017-03-26 15:44:15 INFO  HackerNewsScenario:112 - Value:Hackathon
+2017-03-26 15:44:22 INFO  StepExecuter:106 - SendkeysCopyDynamic:Hackathon
+2017-03-26 15:44:23 INFO  StepExecuter:108 - Hackathon Entered dynamically at [[ChromeDriver: chrome on XP (63f0eee21314c9996754152fcc625bf9)] -> xpath: //input]
+2017-03-26 15:44:36 INFO  StepExecuter:114 - Enter pressed Successfully
+2017-03-26 15:45:04 INFO  StepExecuter:97 - [[ChromeDriver: chrome on XP (63f0eee21314c9996754152fcc625bf9)] -> xpath: //button[text()='2']] : Clicked Successfully
+2017-03-26 15:45:33 INFO  StepExecuter:97 - [[ChromeDriver: chrome on XP (63f0eee21314c9996754152fcc625bf9)] -> xpath: //button[text()='3']] : Clicked Successfully
+2017-03-26 15:46:03 INFO  StepExecuter:97 - [[ChromeDriver: chrome on XP (63f0eee21314c9996754152fcc625bf9)] -> xpath: //button[text()='4']] : Clicked Successfully
+2017-03-26 15:46:32 INFO  StepExecuter:97 - [[ChromeDriver: chrome on XP (63f0eee21314c9996754152fcc625bf9)] -> xpath: //button[text()='5']] : Clicked Successfully
+2017-03-26 15:46:32 INFO  HackerNewsWrapper:45 - No. of title with more than 500 votes=0
+2017-03-26 16:38:22 INFO  CreateFolder:40 - Screenshot already Exist!!
+2017-03-26 16:38:22 INFO  CreateFolder:40 - Output already Exist!!
+2017-03-26 16:38:22 INFO  CreateFolder:40 - Log already Exist!!
+2017-03-26 16:39:04 INFO  HackerNewsScenario:90 - TestCaseName:traverseanddisplay
+2017-03-26 16:39:18 INFO  StepExecuter:102 - Hackathon Entered Successfully at [[ChromeDriver: chrome on XP (f3879b32a955beb889ce5a29846821dc)] -> xpath: //input]
+2017-03-26 16:39:32 INFO  StepExecuter:114 - Enter pressed Successfully
+2017-03-26 16:39:53 INFO  StepExecuter:97 - [[ChromeDriver: chrome on XP (f3879b32a955beb889ce5a29846821dc)] -> xpath: //button[text()='2']] : Clicked Successfully
+2017-03-26 16:40:12 INFO  StepExecuter:97 - [[ChromeDriver: chrome on XP (f3879b32a955beb889ce5a29846821dc)] -> xpath: //button[text()='3']] : Clicked Successfully
+2017-03-26 16:40:32 INFO  StepExecuter:97 - [[ChromeDriver: chrome on XP (f3879b32a955beb889ce5a29846821dc)] -> xpath: //button[text()='4']] : Clicked Successfully
+2017-03-26 16:40:51 INFO  StepExecuter:97 - [[ChromeDriver: chrome on XP (f3879b32a955beb889ce5a29846821dc)] -> xpath: //button[text()='5']] : Clicked Successfully
+2017-03-26 16:40:51 INFO  HackerNewsWrapper:45 - No. of title with more than 500 votes=0

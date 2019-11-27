@@ -1,0 +1,5 @@
+projectKey=RBSHackerEarth:RBSHackerEarth
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/RBSHackerEarth:RBSHackerEarth
+ceTaskId=AVsHZf7pA67nccqeh4lQ
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AVsHZf7pA67nccqeh4lQ

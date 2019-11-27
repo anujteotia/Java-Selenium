@@ -1,0 +1,2 @@
+Hack: A typeface designed for source code 521 points
+Hack: a new programming language for HHVM 576 points

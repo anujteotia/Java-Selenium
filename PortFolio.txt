@@ -1,0 +1,38 @@
+*************************************** Key Projects*********************************************
+
+1.	E2E Automation (DirecTV) 
+
+	The project provides the platform for the channels published by the DirecTV to respective customers on subscription basis. The guide listing, search and 	discovery of all local channels shall be through DIRECTV's Guide Service, but the stream source however shall vary depending on the Network
+
+		Responsibilities include:
+		•	Design Automation Scripts for the web based and manual testing projects
+		•	Utilize and extend existing automated test framework using TestNG
+		•	Automate projects involving web services i.e. REST/SOAP
+		•	Design and implement reusable automated test framework to drive test automation goals to support continuous integration and regression testing and 	develop scripts for the end to end testing scenarios
+		•	Middle layer services using Log4J and create Executable JAR files & Automated TestNG Test Reports
+
+		Technologies Used: J2EE, DB2, UNIX Scripting, MySQL
+		Tools Used : Eclipse, Jenkins, Spira, Jira
+		Framework: TestNG, Selenium Webdriver, Apache Log4j
+		Build Tool : Maven
+	
+Role: Automation Testing Engineer
+
+
+2. Test Data Management Tool (DirecTV)
+
+	This tool provides the UI to Automation testing engineer for test data management like properties file and excel data used to drive Automation framework for UI testing. This tool provides add, delete, modify properties file and excel sheet data. Instead of using Excel file and properties file, we are picking the data from MySQL data base. It removed the dependency on Excel file and properties file. 
+	
+	Responsibilities Include:
+		•	Design UI and database
+		•	Implementation of apache log4j logging 
+		•	Excel data and properties file Management
+		•	Integrate test data management with existing Automation framework
+		•	Write script for store and retrieve data from MySQL database
+
+	Technologies Used: J2EE, MySQL
+	Tool Used: Eclipse
+	Framework: Apache Log4j,TestNG
+	
+Role: Developer
+
