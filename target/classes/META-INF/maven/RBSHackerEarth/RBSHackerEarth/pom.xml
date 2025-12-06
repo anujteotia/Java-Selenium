@@ -34,9 +34,9 @@
 			<version>4.1.1</version>
 		</dependency>
 		<dependency>
-			<groupId>org.apache.poi</groupId>
-			<artifactId>poi-ooxml</artifactId>
-			<version>3.16-beta1</version>
+		  <groupId>org.apache.poi</groupId>
+		  <artifactId>poi-ooxml</artifactId>
+		  <version>[5.4.0,)</version>
 		</dependency>
 		<dependency>
 			<groupId>org.testng</groupId>
@@ -46,3 +46,4 @@
 		</dependency>
 	</dependencies>
 </project>
+
